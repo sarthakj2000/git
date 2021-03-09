@@ -1,4 +1,9 @@
 phone
 telphont games
 sartha kajspa
+<<<<<<< HEAD
 agshjs
+=======
+agshjs
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> alien
