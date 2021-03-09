@@ -1,9 +1,13 @@
 phone
 telphont games
+<<<<<<< HEAD
 sartha kajspa
 <<<<<<< HEAD
 agshjs
 =======
 agshjs
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> alien
+=======
+sartha kajspa
 >>>>>>> alien
